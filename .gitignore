@@ -1,0 +1,4 @@
+notebook/data/MICRODADOS_ENEM_2023.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
